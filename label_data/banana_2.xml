@@ -1,0 +1,26 @@
+<annotation>
+	<folder>label_data</folder>
+	<filename>banana_2.jpg</filename>
+	<path>D:\label_data\banana_2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>780</width>
+		<height>776</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>banana</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>47</xmin>
+			<ymin>4</ymin>
+			<xmax>766</xmax>
+			<ymax>765</ymax>
+		</bndbox>
+	</object>
+</annotation>
